@@ -1,0 +1,39 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+body {
+	font-family: Montseerrat, serif;
+	font-size: 20px;
+	background-color: rgb(240, 255, 255);
+	color : #16225b;
+	text-align: center;
+	padding: 10px;
+	margin : 0px;
+}
+
+h1, h2, h3 {
+	color: #406882;
+	font-family: Courrier, serif;
+	font-weight: bold;
+	}
+
+h1 {
+	font-size : 28px;
+	font-weight: 799;
+		} 
+
+p { 
+	text-align: justify;
+	text-align: center;
+	} 
+
+a {
+	text-decoration: none;
+	}
+
+
